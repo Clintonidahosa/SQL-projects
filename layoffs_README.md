@@ -2,6 +2,10 @@
 
 This project focuses on cleaning and analyzing global layoffs data, including details like company, industry, location, number of layoffs, and company stage. The goal is to remove duplicates, standardize data, and explore trends over time.
 
+## How to Use
+- Clone the repository.
+- Run the SQL scripts provided in a MySQL environment.
+
 ## Objectives
 - **Data Cleaning**:
   - Remove duplicates using row numbering.
@@ -30,10 +34,4 @@ Key columns:
 - **SQL**: For data cleaning and querying.
 - **MySQL**: Database used for this project.
 
-## How to Use
-- Clone the repository.
-- Run the SQL scripts provided in a MySQL environment.
 
-## Future Work
-- Add data visualizations in Tableau or Power BI.
-- Explore predictive modeling on layoff trends.
