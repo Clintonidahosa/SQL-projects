@@ -6,8 +6,9 @@ This project focuses on cleaning and analyzing hospital readmission data using S
 ## Usage
 To replicate this analysis:
 1. Use the SQL script in the `Hospital_readmission_reduction.sql` file.
-2. Download the dataset - FY_2024_Hospital_Readmissions_Reduction_Program_Hospital
-3. Run the queries step by step for data cleaning and exploration.
+2. Download the table - readmission.csv
+3. Create a schema "Hosp_read" and import the "readmission" table to the schema
+4. 4. Run the queries step by step for data cleaning and exploration.
 
 
 ## Key Steps
